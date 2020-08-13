@@ -3,8 +3,8 @@ header{
 }
 .reddit-icon-svg{
   height: 50px;
-  padding: 8px 8px 8px 0;
   width: 50px;
+  padding: 8px 8px 8px 0;
 }
 
 .reddit-text{
@@ -18,10 +18,9 @@ header{
 
 .login, .signup{
   background-color: transparent;
-  border-color: #0079D3;
   color: #0079D3;
   fill: #0079D3;
-  border: 1px solid;
+  border: 1px solid #0079D3;
   border-radius: 4px;
   box-sizing: border-box;
   text-align: center;
